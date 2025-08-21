@@ -1,4 +1,13 @@
 # Nonlinear-GW-memory-in-astrophysical-environment
 
 
-The fundamental process of detecting gravitational waves (GW) memory from compact binary dynamics has so far overlooked a crucial factor, i.e, the influence of the astrophysical environment. All of the research is based on GW memory from binaries in a vacuum. In this study, we have, for the very first time, calculated the effect of dark matter (DM) environment on memory from binaries in both bound and unbound orbits. Specifically, we looked into nonlinear memory from non-spinning intermediate-mass-ratio binaries and found environment has a considerable effect on memory, which can be detected by future space-based detectors like LISA, GWSat. We have looked into two DM profiles, namely Minispike and Navarro-Frank-White (NFW), and observed their effect on memory from a binary in elliptic and hyperbolic orbits. We have also empirically incorporated the effect of DM density evolution in the case of a quasicircular orbit for the minispike profile. Our result strengthens the hereditary feature of the past binary evolution effect on building nonlinear memory. Overall, our work bridges the gap between the effect of DM environment on memory, which is a consequence of the strong field prediction of general relativity.  
+We present the first study of how dark matter environments affect nonlinear gravitational
+memory from intermediate-mass-ratio binaries. Modeling dark matter effects—gravity, dynamical
+friction, and accretion—we compute nonlinear memory for bound and unbound orbits under dark
+matter minispikes and Navarro-Frenk-White profiles. We have also empirically accounted for the
+evolution of dark matter density in the case of quasi-circular orbits within a minispike profile.
+Our findings show notable deviations from the vacuum case, with important implications for the
+detectability of gravitational memory by future gravitational wave detectors, highlighting the role
+of astrophysical environments in gravitational memory. Thus, our results strengthen the hereditary
+feature of the past binary evolution effect on building nonlinear memory and work as a bridge
+between dark matter environment and memory.
