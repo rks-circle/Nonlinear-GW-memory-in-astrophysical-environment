@@ -8,3 +8,5 @@ This repository contains four Jupyter notebooks for different cases of Nonlinear
 2) Elliptical orbit + DM NFW environment
 3) Hyperbolic orbit + DM minispike environment
 4) Hyperbolic orbit + DM NFW environment
+
+The nonlinear memory from quasi-circular binaries in dynamic DM minispike profile is already inside notebook for (Elliptical orbit + DM minispike environment).
