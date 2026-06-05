@@ -9,3 +9,5 @@ This repository contains two Jupyter notebooks for different cases of Nonlinear 
 2) Hyperbolic orbit + DM minispike environment
 
 The nonlinear memory from quasi-circular binaries in dynamic DM minispike profile is already inside notebook for (Elliptical orbit + DM minispike environment).
+
+The details of the calculation can be found on our paper- https://arxiv.org/abs/2509.01676
